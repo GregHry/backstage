@@ -24,7 +24,7 @@ metadata:
   tags:
     - node
     - web
-    - express
+    - express 
 
 spec:
   type: service
